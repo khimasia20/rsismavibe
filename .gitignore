@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+__pycache__/
+*.pyc
+.env*.local
+sp500_indicator_results.csv
+sp500_indicator_test.csv
+sp500_move_test.csv
+next-dev*.log
+signal-desk-screenshot.png

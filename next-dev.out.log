@@ -1,0 +1,18 @@
+
+> sp500-signal-checker@0.1.0 dev
+> next dev -p 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 13.5s
+ ○ Compiling /api/signal ...
+ ✓ Compiled /api/signal in 683ms (57 modules)
+ GET /api/signal?ticker=AAPL 200 in 1519ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.7s (512 modules)
+ GET / 200 in 4884ms
+ GET / 200 in 61ms
+ GET /api/signal?ticker=AAPL 200 in 58ms
+ GET /api/signal?ticker=MSFT 200 in 415ms

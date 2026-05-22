@@ -1,0 +1,106 @@
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat 'C:\Users\preet\New project\.next\server\vendor-chunks'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving './vendor-chunks/@swc' in C:\Users\preet\New project\.next\server for build dependencies doesn't lead to expected result 'C:\Users\preet\New project\.next\server\vendor-chunks\@swc.js', but to 'Error: Can't resolve './vendor-chunks/@swc' in 'C:\Users\preet\New project\.next\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ./vendor-chunks/@swc (expected C:\Users\preet\New project\.next\server\vendor-chunks\@swc.js)
+<w>  at file dependencies C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file dependencies C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at resolve commonjs C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving './vendor-chunks/lucide-react' in C:\Users\preet\New project\.next\server for build dependencies doesn't lead to expected result 'C:\Users\preet\New project\.next\server\vendor-chunks\lucide-react.js', but to 'Error: Can't resolve './vendor-chunks/lucide-react' in 'C:\Users\preet\New project\.next\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ./vendor-chunks/lucide-react (expected C:\Users\preet\New project\.next\server\vendor-chunks\lucide-react.js)
+<w>  at file dependencies C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file dependencies C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at resolve commonjs C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving './vendor-chunks/next' in C:\Users\preet\New project\.next\server for build dependencies doesn't lead to expected result 'C:\Users\preet\New project\.next\server\vendor-chunks\next.js', but to 'Error: Can't resolve './vendor-chunks/next' in 'C:\Users\preet\New project\.next\server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ./vendor-chunks/next (expected C:\Users\preet\New project\.next\server\vendor-chunks\next.js)
+<w>  at file dependencies C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file C:\Users\preet\New project\.next\server\webpack-runtime.js
+<w>  at file dependencies C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file C:\Users\preet\New project\.next\server\app\page.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\require.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\server\load-components.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\utils.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-route-loader\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\entries.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\next-types-plugin\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack-config.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-swc-loader.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\bundle5.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\compiled\webpack\webpack.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\plugins\define-env-plugin.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\swc\index.js
+<w>  at file dependencies C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at file C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
+<w>  at resolve commonjs C:\Users\preet\New project\node_modules\next\dist\build\webpack\loaders\next-barrel-loader.js
